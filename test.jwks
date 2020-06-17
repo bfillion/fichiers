@@ -1,0 +1,39 @@
+{
+    "additionalData": {},
+    "keys": [
+        {
+            "additionalData": {},
+            "alg": null,
+            "crv": null,
+            "d": null,
+            "dp": null,
+            "dq": null,
+            "e": "AQAB",
+            "k": null,
+            "keyId": "85F88ADF92EA1F5B3C5422641D6C315130E4A8DA",
+            "keyOps": [],
+            "kid": "85F88ADF92EA1F5B3C5422641D6C315130E4A8DA",
+            "kty": "RSA",
+            "n": "z6+JZnpL1OoyfG6Owvc38kFk4x8pYZxaOWmST9g4rE7yXrn1qimBxDSNaz7ntHHpnlcO4X4MF6w2wagO1809uiZp7PQXXnMI/LC44lGoxHSB2MF99Fi4S16P4VJYMT+mWgxXePK/VB4zwiWMP6mmggnRuwmuRy88QYQjlurtkkVNVEPq4nH6Q/mln4334ZKGaTpNWSI1Y4W8WYjdwwyceQKLf772qcu3aJOU6kZWjnb5pCfbPc+ffvUb64DTyIpw+KZX4y5PgFrQiCnbYLzFr8RjsSzs9LmYdqreMFgxYnFTvEkPbQ3nTMiYYjY+IWYrygLT9tc7kUbS7vE29SFT/w==",
+            "oth": null,
+            "p": null,
+            "q": null,
+            "qi": null,
+            "use": "sig",
+            "x": null,
+            "x5c": [],
+            "x5t": "85F88ADF92EA1F5B3C5422641D6C315130E4A8DA",
+            "x5tS256": null,
+            "x5u": null,
+            "y": null,
+            "keySize": 2048,
+            "hasPrivateKey": false,
+            "cryptoProviderFactory": {
+                "cryptoProviderCache": {},
+                "customCryptoProvider": null,
+                "cacheSignatureProviders": true
+            }
+        }
+    ],
+    "skipUnresolvedJsonWebKeys": true
+}
